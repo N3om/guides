@@ -9,5 +9,5 @@ How to create a Cryptocurrency Token | 26-12-2021 | In progress
 
 
 ## Completed Articles ##
-Markup : - [ ] Virtual Machines 
-         - [ ] How to create a Cryptocurrency Token
+ Markup : - [ ] Virtual Machines 
+          - [x] How to create a Cryptocurrency Token
