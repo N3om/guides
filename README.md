@@ -1,4 +1,4 @@
-# Guides
+# Guides & Articles #
 
 In this Repo you can find all the guides and articles I will be writing for n3om.github.io
 
@@ -8,7 +8,6 @@ Virtual Machines  | 26-12-2021 | In review
 How to create a Cryptocurrency Token | 26-12-2021 | In progress
 
 
-##Completed Articles##
-Markup : 
-        - [ ] Virtual Machines 
-        - [ ] How to create a Cryptocurrency Token
+## Completed Articles ##
+Markup : - [ ] Virtual Machines 
+         - [ ] How to create a Cryptocurrency Token
